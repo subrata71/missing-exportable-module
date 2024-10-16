@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "670ffa2bc2f1ad621ad6a835_82f70146-5098-49f1-bfa2-2e0ff725043a",
+  "id": "Page1_GetFemaleUsers1",
+  "moduleUUID": "d6c6b51e-798b-46d6-ada3-89bd29b9ac5e",
+  "packageUUID": "43468c82-a89c-42d2-9e22-0bd845fbfe8b",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "GetFemaleUsers1",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
